@@ -9,4 +9,4 @@
 
 Сцена Playground находится по пути Assets/StarterAssets/FirstPersonController/Scenes 
 
-Не забыть реализовать преобразование метариалов, настроек и т.д. с помощью команды Render Pipeline Converter.
+Не забыть реализовать после запуска сцены преобразование метариалов, настроек и т.д. с помощью команды Render Pipeline Converter.
